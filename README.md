@@ -27,7 +27,7 @@ We applied **parameter-efficient fine-tuning (PEFT)** to improve the performance
 |----------------------|------------------|------------------|------------------|
 | "Hey! How are you?"<br> "I'm great, thanks!"<br> "Let's meet up later?" | "Two friends greet each other and plan to meet." | "Friends meet." | "Two friends talk and plan a meeting." |
 
-**See the full sample outputs in [`images/`](image**)
+**See the full sample outputs in [`images/`](images)
 
 ---
 
