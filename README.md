@@ -15,10 +15,10 @@ We applied **parameter-efficient fine-tuning (PEFT)** to improve the performance
 ## Model Performance Comparison
 | **Metric** | **Original Model** | **Fine-Tuned Model (PEFT)** | **Improvement** |
 |------------|------------------|--------------------------|----------------|
-| **ROUGE-1** | 0.2292 | **0.3560** | **+12.67%** |
-| **ROUGE-2** | 0.0784 | **0.1120** | **+3.35%** |
-| **ROUGE-L** | 0.1691 | **0.3009** | **+13.18%** |
-| **ROUGE-Lsum** | 0.1899 | **0.2656** | **+7.57%** |
+| **ROUGE-1** | 0.2292 | **0.2975** | **+6.84%** |
+| **ROUGE-2** | 0.0784 | **0.0867** | **+0.83%** |
+| **ROUGE-L** | 0.1690 | **0.2603** | **+9.13%** |
+| **ROUGE-Lsum** | 0.1899 | **0.2326** | **+4.27%** |
 
 ---
 
